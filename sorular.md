@@ -11,7 +11,7 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 ## Sorular
 
 1. Git nedir?
-    Projeleri yönetmek,yapılmış olan projeleri izlemek ve geçmiş sürümlere geri dönmek gibi işlevlerde kullanılan bir yazılımdır. 
+    Projeleri yönetmek,yapılmış olan projeleri  izlemek ve geçmiş sürümlere geri dönmek gibi işlevlerde kullanılan bir yazılımdır. 
 2. Git ile GitHub arasında ne fark var?
     Git, projenin bir kopyasını oluşturduğumuz, yerel bilgisayarımızda değişiklikleri izlediğimiz,kaydettiğimiz ve geçmiş sürümlere erişim sağlayan GitHub ise git tabanlı projelerin uzak sunucularda barındırılmasını , işbirliği yapılmasını kolaylaştıran bir web tabanlı platfomdur.
 3. Neden bir branch oluşturuyoruz?
